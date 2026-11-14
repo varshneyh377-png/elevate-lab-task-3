@@ -66,4 +66,4 @@ The project includes visualizations to understand the relationship between house
 This task provided practical experience in implementing Linear Regression for house price prediction. It helped develop an understanding of regression modeling, model evaluation, and data visualization using Python and Scikit-learn.
 
 ## Author
-AI & ML Internship Participant
+Himanshi Varshney
